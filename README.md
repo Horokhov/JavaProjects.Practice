@@ -1,0 +1,2 @@
+# JavaProjects.Practice
+Personal practice
